@@ -1,0 +1,17 @@
+td:first-child{
+    color:blue;
+    font-weight: bold;
+    font-size: 22px;
+}
+tr:nth-child(2){
+    color: blueviolet;
+    font-size: 22px;
+}
+tr:nth-child(3){
+    color: blueviolet;
+    font-size: 22px;
+}
+td:nth-child(2){
+    font-size: 22px;
+    color:cyan;
+}
