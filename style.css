@@ -15,3 +15,7 @@ td:nth-child(2){
     font-size: 22px;
     color:cyan;
 }
+li:first-letter{
+    font-weight: bold;
+    font-size: 32px;
+}
